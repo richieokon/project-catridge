@@ -1,0 +1,66 @@
+.row{
+  margin: 0;
+}
+
+ #ibrd{
+  width: 80%;
+  max-width: 300px;
+  margin: auto;
+
+}
+
+.container{
+  height: 100% !important;
+}
+
+.semi{
+  margin: auto;
+  background: rgb(64, 133, 243);
+  text-align: center;
+  height: 75px;
+  width: 150px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+  padding-top: 20px;
+  position: relative;
+  top: 10px;
+  color: white;
+}
+
+#ibrd img{
+  width: 100%;
+  height: 100%;
+} 
+
+.col-md-5{
+  background: rgb(36,36, 92);
+  position: relative;
+}
+.lb{
+  position: absolute;
+  bottom: 0;
+  border-radius: 0;
+  left: 0;
+  width: 100%;
+  
+}
+.form-control {
+  background: none;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid gray;
+    color: #ffff;
+}
+.row {
+  
+    color: #fff;
+}
+
+#h{
+  width: 80%;
+}
+
+#h button{
+  border-radius:30px ;
+  width: 40%;
+}
